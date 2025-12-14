@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hackatime.hackclub.com/">
-    <img src="https://hackatime-badge.hackclub.com/U0A13N316LB/sudospot" alt="Hackatime Badge">
+    <img src="https://hackatime-badge.hackclub.com/U0A13N316LB/Orbit" alt="Hackatime Badge">
   </a>
 </p>
 
