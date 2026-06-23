@@ -43,7 +43,8 @@ Current interests include:
 
 <td width="32%" align="center">
 
-<img width="670" height="670" alt="pfp1" src="https://github.com/user-attachments/assets/d0bf299c-3d6c-4d34-9164-42492b4e2ca4" />
+<img width="670" height="670" alt="pfp1" src="https://github.com/user-attachments/assets/d5072624-5747-42a7-a8c3-555b519d27d4" />
+
 
 
 </td>
