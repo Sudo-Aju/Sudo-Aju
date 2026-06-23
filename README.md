@@ -21,7 +21,7 @@
 
 <td width="68%" valign="top">
 
-
+<br>
 
 I enjoy building products that combine electronics and software.
 
@@ -36,6 +36,8 @@ Current interests include:
 - Computer Graphics
 - Open Source Hardware
 - Product Design
+  
+<br>
 
 </td>
 
@@ -124,30 +126,10 @@ Software
 
 </div>
 
----
-
-## Contribution Playground
-
-<p align="center">
-
-</p>
-
----
-
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/11b07d98-a248-46cd-84b2-5d40db5016f3" width="120">
+---
 
-<br><br>
-
-                  ```text
-                  ███████╗██╗   ██╗██████╗  ██████╗
-                  ██╔════╝██║   ██║██╔══██╗██╔═══██╗
-                  ███████╗██║   ██║██║  ██║██║   ██║
-                  ╚════██║██║   ██║██║  ██║██║   ██║
-                  ███████║╚██████╔╝██████╔╝╚██████╔╝
-                  ╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝
-                  ```
 
 <sub><i>Build. Break. Learn. Repeat.</i></sub>
 
