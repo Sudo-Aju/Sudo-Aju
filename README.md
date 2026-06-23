@@ -81,41 +81,13 @@ Current interests include:
 
 ---
 
-## Toolbox
-
-```text
-Languages
-├── C
-├── C++
-├── Python
-├── JavaScript
-└── HTML / CSS
-
-Hardware
-├── KiCad
-├── RP2040
-├── ESP32
-├── STM32
-├── USB-C
-└── LiPo Power
-
-Software
-├── React
-├── Three.js
-├── Node.js
-├── Git
-└── Linux
-```
-
----
-
 ## GitHub
   
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudo-Aju&theme=transparent&hide_border=true&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudo-Aju&theme=transparent&hide_border=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Aju&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Aju&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
 
 </div>
 
@@ -123,7 +95,7 @@ Software
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudo-Aju&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudo-Aju&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
 
