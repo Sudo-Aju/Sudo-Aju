@@ -67,13 +67,13 @@ Current interests include:
 
   <td align="center" width="33%">
       <a href="https://github.com/Sudo-Aju/Rova">
-        <img src="https://github.com/user-attachments/assets/4da5c466-912d-4cfb-98a1-4ee0e50cb213" width="500" alt="Rova">
+        <img src="https://github.com/user-attachments/assets/13558609-8f07-479e-8872-92a6ea5a099e" width="500" alt="Rova">
       </a>
     </td>
 
   <td align="center" width="33%">
       <a href="https://github.com/Sudo-Aju/Galatchi">
-        <img src="https://github.com/user-attachments/assets/13558609-8f07-479e-8872-92a6ea5a099e" width="500" alt="Galatchi">
+        <img src="https://github.com/user-attachments/assets/4da5c466-912d-4cfb-98a1-4ee0e50cb213" width="500" alt="Galatchi">
       </a>
     </td>
   </tr>
