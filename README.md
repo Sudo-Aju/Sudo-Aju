@@ -53,30 +53,34 @@ Current interests include:
 </table>
 
 ---
-
-
 ## Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Sudo-Aju/Elfin">
         <img src="https://github.com/user-attachments/assets/8790bdab-b567-43ac-9e1a-ad682349c924" width="220" alt="Elfin">
       </a>
     </td>
 
-  <td align="center" width="33%">
-      <a href="https://github.com/Sudo-Aju/Rova">
-        <img src="https://github.com/user-attachments/assets/13558609-8f07-479e-8872-92a6ea5a099e" width="500" alt="Rova">
-      </a>
-    </td>
+  <td align="center" width="25%">
+    <a href="https://github.com/Sudo-Aju/Rova">
+      <img src="https://github.com/user-attachments/assets/13558609-8f07-479e-8872-92a6ea5a099e" width="220" alt="Rova">
+    </a>
+  </td>
 
-  <td align="center" width="33%">
-      <a href="https://github.com/Sudo-Aju/Galatchi">
-        <img src="https://github.com/user-attachments/assets/4da5c466-912d-4cfb-98a1-4ee0e50cb213" width="500" alt="Galatchi">
-      </a>
-    </td>
-  </tr>
+  <td align="center" width="25%">
+    <a href="https://github.com/Sudo-Aju/Galatchi">
+      <img src="https://github.com/user-attachments/assets/4da5c466-912d-4cfb-98a1-4ee0e50cb213" width="220" alt="Galatchi">
+    </a>
+  </td>
+
+  <td align="center" width="25%">
+    <a href="https://github.com/Sudo-Aju/AliPayBot">
+    <img src="https://github.com/Sudo-Aju/AliPayBot/blob/main/Gallery/Logo.png?raw=true" width="220" alt="AliPayBot">
+</a>
+ </td>
+</tr>
 </table>
 
 ---
