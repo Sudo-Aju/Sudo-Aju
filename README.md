@@ -85,29 +85,26 @@ Current interests include:
 
 ---
 
-## GitHub
-  
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudo-Aju&theme=transparent&hide_border=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Aju&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
-
-</div>
-
-<br>
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudo-Aju&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 
-</div>
 
-<div align="center">
+![](https://streak-stats.demolab.com/?user=Sudo-AJu&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sudo-AJu&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Sudo-AJu&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 
 ---
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+</div>
 
 <sub><i>Build. Break. Learn. Repeat.</i></sub>
 
 </div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azmeer.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AzmeerPirani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeerpirani3@gmail.com) 
